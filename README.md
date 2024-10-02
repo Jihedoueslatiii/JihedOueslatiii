@@ -1,11 +1,10 @@
 ## Hi 👋, I'm Jihed Oueslati!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239444F7&lines=Passionate+Software+Engineer+%7C+Cloud+and+Security+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&duration=3000&center=true&vCenter=true&lines=Software+Engineering+Student+%7C+Big+Data+Certified)
 
 ### About Me
 🎓 **Big Data Certified Engineer**  
 💻 **MERN Stack Developer**  
-🌱 Continuously learning and building in **Web Development** and **Cloud Computing**  
 🚀 Currently working on my **personal portfolio** using modern web technologies  
 📫 Reach me at: oueslatiijihed@outlook.com
 
