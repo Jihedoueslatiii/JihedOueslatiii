@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Jihed Oueslati!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&duration=8000&center=true&vCenter=true&lines=Software+Engineering+Student+%7C+Big+Data+Certified)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&duration=8000&center=true&vCenter=true&lines=Software+Engineering+Student+%7C)
 
 ### About Me
 🎓 **Big Data Certified Engineer**  
